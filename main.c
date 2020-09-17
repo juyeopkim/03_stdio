@@ -5,12 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	char c;
 	
-	printf("input an alphabet :");
-	scanf("%c", &c);
-	
-	printf("input alphabet is %c (%d), and the next one is %c (%d)\n", c, c, c+1, c+1);
 	
 	return 0;
 }
